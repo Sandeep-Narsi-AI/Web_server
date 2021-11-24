@@ -47,4 +47,7 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
+
+![Output 1](SSE1.png)
+
 ## RESULT:
